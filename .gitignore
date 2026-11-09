@@ -1,0 +1,17 @@
+# ===== 第三方代码库（需单独克隆，勿提交）=====
+OpenCOOD/
+
+# ===== 临时提取 / 中间文件 =====
+_*.txt
+*提取.txt
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ===== 系统 / 编辑器 =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
