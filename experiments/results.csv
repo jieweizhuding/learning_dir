@@ -1,0 +1,2 @@
+run_id,status,stage,sample_manifest,receiver_version,ego_encoder,collaborator_encoder,checkpoint_old,checkpoint_new,dataset_split,num_samples,global_sort,ap_05,ap_07,elapsed_seconds,peak_gpu_mib,missing_keys,unexpected_keys,notes
+baseline_epoch83,running,full,,,,,net_epoch83.pth,,validate,1980,true,,,,,,,用户在WSL运行中，最终结果未回传
