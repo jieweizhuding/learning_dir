@@ -1,0 +1,551 @@
+{
+  "purpose": "固定跨场景探索子集，不用于独立最终确认",
+  "selection": "每场景10帧，按场景内索引均匀选择",
+  "dataset_root": "/home/jw/OpenCOOD/opv2v_data_dumping/validate",
+  "dataset_size": 1980,
+  "num_scenarios": 9,
+  "num_selected": 90,
+  "samples": [
+    {
+      "index": 0,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 0
+    },
+    {
+      "index": 12,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 12
+    },
+    {
+      "index": 24,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 24
+    },
+    {
+      "index": 37,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 37
+    },
+    {
+      "index": 49,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 49
+    },
+    {
+      "index": 61,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 61
+    },
+    {
+      "index": 74,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 74
+    },
+    {
+      "index": 86,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 86
+    },
+    {
+      "index": 98,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 98
+    },
+    {
+      "index": 111,
+      "scenario": "2021_08_20_21_48_35",
+      "scenario_position": 0,
+      "local_index": 111
+    },
+    {
+      "index": 112,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 0
+    },
+    {
+      "index": 129,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 17
+    },
+    {
+      "index": 146,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 34
+    },
+    {
+      "index": 164,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 52
+    },
+    {
+      "index": 181,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 69
+    },
+    {
+      "index": 198,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 86
+    },
+    {
+      "index": 216,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 104
+    },
+    {
+      "index": 233,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 121
+    },
+    {
+      "index": 250,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 138
+    },
+    {
+      "index": 268,
+      "scenario": "2021_08_21_17_30_41",
+      "scenario_position": 1,
+      "local_index": 156
+    },
+    {
+      "index": 269,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 0
+    },
+    {
+      "index": 283,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 14
+    },
+    {
+      "index": 298,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 29
+    },
+    {
+      "index": 313,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 44
+    },
+    {
+      "index": 328,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 59
+    },
+    {
+      "index": 343,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 74
+    },
+    {
+      "index": 358,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 89
+    },
+    {
+      "index": 373,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 104
+    },
+    {
+      "index": 388,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 119
+    },
+    {
+      "index": 403,
+      "scenario": "2021_08_22_13_37_16",
+      "scenario_position": 2,
+      "local_index": 134
+    },
+    {
+      "index": 404,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 0
+    },
+    {
+      "index": 426,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 22
+    },
+    {
+      "index": 448,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 44
+    },
+    {
+      "index": 471,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 67
+    },
+    {
+      "index": 493,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 89
+    },
+    {
+      "index": 515,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 111
+    },
+    {
+      "index": 538,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 134
+    },
+    {
+      "index": 560,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 156
+    },
+    {
+      "index": 582,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 178
+    },
+    {
+      "index": 605,
+      "scenario": "2021_08_22_22_01_17",
+      "scenario_position": 3,
+      "local_index": 201
+    },
+    {
+      "index": 606,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 0
+    },
+    {
+      "index": 613,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 7
+    },
+    {
+      "index": 620,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 14
+    },
+    {
+      "index": 627,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 21
+    },
+    {
+      "index": 634,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 28
+    },
+    {
+      "index": 641,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 35
+    },
+    {
+      "index": 648,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 42
+    },
+    {
+      "index": 655,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 49
+    },
+    {
+      "index": 662,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 56
+    },
+    {
+      "index": 669,
+      "scenario": "2021_08_23_10_51_24",
+      "scenario_position": 4,
+      "local_index": 63
+    },
+    {
+      "index": 670,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 0
+    },
+    {
+      "index": 675,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 5
+    },
+    {
+      "index": 680,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 10
+    },
+    {
+      "index": 685,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 15
+    },
+    {
+      "index": 690,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 20
+    },
+    {
+      "index": 696,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 26
+    },
+    {
+      "index": 701,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 31
+    },
+    {
+      "index": 706,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 36
+    },
+    {
+      "index": 711,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 41
+    },
+    {
+      "index": 717,
+      "scenario": "2021_08_23_13_17_21",
+      "scenario_position": 5,
+      "local_index": 47
+    },
+    {
+      "index": 718,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 0
+    },
+    {
+      "index": 724,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 6
+    },
+    {
+      "index": 730,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 12
+    },
+    {
+      "index": 736,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 18
+    },
+    {
+      "index": 742,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 24
+    },
+    {
+      "index": 749,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 31
+    },
+    {
+      "index": 755,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 37
+    },
+    {
+      "index": 761,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 43
+    },
+    {
+      "index": 767,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 49
+    },
+    {
+      "index": 774,
+      "scenario": "2021_08_23_19_42_07",
+      "scenario_position": 6,
+      "local_index": 56
+    },
+    {
+      "index": 775,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 0
+    },
+    {
+      "index": 825,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 50
+    },
+    {
+      "index": 876,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 101
+    },
+    {
+      "index": 927,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 152
+    },
+    {
+      "index": 978,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 203
+    },
+    {
+      "index": 1029,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 254
+    },
+    {
+      "index": 1080,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 305
+    },
+    {
+      "index": 1131,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 356
+    },
+    {
+      "index": 1182,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 407
+    },
+    {
+      "index": 1233,
+      "scenario": "2021_09_09_19_27_35",
+      "scenario_position": 7,
+      "local_index": 458
+    },
+    {
+      "index": 1234,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 0
+    },
+    {
+      "index": 1316,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 82
+    },
+    {
+      "index": 1399,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 165
+    },
+    {
+      "index": 1482,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 248
+    },
+    {
+      "index": 1565,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 331
+    },
+    {
+      "index": 1647,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 413
+    },
+    {
+      "index": 1730,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 496
+    },
+    {
+      "index": 1813,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 579
+    },
+    {
+      "index": 1896,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 662
+    },
+    {
+      "index": 1979,
+      "scenario": "2021_09_11_00_33_16",
+      "scenario_position": 8,
+      "local_index": 745
+    }
+  ],
+  "provenance": "按用户2026-11-10回传的场景与索引重建，云端未重新加载数据集"
+}

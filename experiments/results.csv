@@ -1,2 +1,3 @@
 run_id,status,stage,sample_manifest,receiver_version,ego_encoder,collaborator_encoder,checkpoint_old,checkpoint_new,dataset_split,num_samples,global_sort,ap_05,ap_07,elapsed_seconds,peak_gpu_mib,missing_keys,unexpected_keys,notes
 baseline_epoch83,completed_user_reported,full,,,,,net_epoch83.pth,,validate,1980,true,0.95,0.89,4944,,0,0,AP@0.3=0.95；终端两位小数；strict加载154项匹配；最终workers数未确认；用户WSL回传
+screening_epoch83_fp32_20261110_091816,completed_user_reported,screening,experiments/validate_screening_v1.json,,,,net_epoch83.pth,,validate,90,true,0.93,0.87,,,0,0,AP@0.3=0.94；终端两位小数；TF32关闭；workers=0；目录/home/jw/OpenCOOD/runs/v2vnet_screening_fp32_20261110_091816；耗时未回传
